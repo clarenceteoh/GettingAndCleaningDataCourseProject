@@ -15,7 +15,7 @@
 [13] tBodyGyro-mean()-Y             
 [14] tBodyGyro-mean()-Z             
 [15] tBodyGyroJerk-mean()-X          
-[16]  tBodyGyroJerk-mean()-Y         
+[16] tBodyGyroJerk-mean()-Y         
 [17] tBodyGyroJerk-mean()-Z          
 [18] tBodyAccMag-mean()             
 [19] tGravityAccMag-mean()          
