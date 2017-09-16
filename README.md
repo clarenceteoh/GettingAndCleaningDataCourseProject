@@ -1,6 +1,6 @@
 ### Getting And Cleaning Data Course Project
 
-## Inputs Required
+## Description of Input Data
 'features.txt': List of all features
 
 'activity_labels.txt': Links the class labels with their activity name
