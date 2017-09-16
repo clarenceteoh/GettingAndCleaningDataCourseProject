@@ -1,4 +1,4 @@
-### Getting And Cleaning Data Course Project
+# Getting And Cleaning Data Course Project
 
 ## Description of Input Data
 'features.txt': List of all features
